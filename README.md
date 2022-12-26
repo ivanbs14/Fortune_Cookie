@@ -11,6 +11,13 @@ Layout UI/UX RocketSeat.
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
+<p align="center">
+🔖 Pagina
+</p>
+
+Você pode visualizar e interagir com a pagina do projeto através [DESSE LINK](ivanbs14.github.io/Fortune_Cookie/).
+<p align="center">
+</p>
 
 <p align="center">
   <img alt="License" src="./apresents/Captura de Tela 2022-12-26 às 15.11.55.png">
