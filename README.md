@@ -15,7 +15,7 @@ Layout UI/UX RocketSeat.
 🔖 Pagina
 </p>
 
-Você pode visualizar e interagir com a pagina do projeto através [DESSE LINK](ivanbs14.github.io/Fortune_Cookie/).
+Você pode visualizar e interagir com a pagina do projeto através [DESSE LINK](https://ivanbs14.github.io/Fortune_Cookie/).
 <p align="center">
 </p>
 
