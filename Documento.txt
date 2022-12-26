@@ -1,0 +1,17 @@
+Layout do figma:
+
+https://www.figma.com/file/kJDEjIvxVeZ9VqfoipjgW3/Biscoito-da-Sorte-(Community)?node-id=0%3A1&t=dj8dy6cgJHnmFIh6-0
+
+ANIMATION CSS => MENSAGEM DO BISCOITO SURGINDO:
+    1- foi criado uma animaçao com o @keyframes
+        onde 0% indica o inicio da animaçao.
+    2- transform - chama a animaçao.
+    3- translate - transiçao da animaçao (X ou Y)
+    4- scale - tamanho da animaçao
+
+    5- chamar a animaçao dentro da tag e passar alguns parametros.
+        animation: nome da animaçao duraçao da animaçao;
+
+    ATENTE-SE QUE NESTE PROJETO TAMBEM EXISTE ANMAÇAO
+    1- NO BISCOITO FECHADO IMG
+    2- NO BACKGROUND DA COR DA PAGINA
